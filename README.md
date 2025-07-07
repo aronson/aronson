@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Heni, a developer in Chicago
+## Hi there 👋 I'm Aronson, a developer in Chicago
 
 I'm 31 years old and have been programming since I was eight years old -- my first language was LOGO with Turtle graphics.
 
@@ -48,7 +48,7 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
 
 ## 🔭 What I'm Up To
 
-- I run my own company hosting generative model interactions
+- I run my own sole proprietorship hosting generative model interactions
 - I'm seeking formal employment so I can set my own company aside
 - I'm working to complete the Apotris multiplayer experience
 - I'm wrapping up and shipping out my Eden Toolchain as an alternative to devkitPro
