@@ -40,6 +40,8 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
 - FPGA development
   - I integrated SNAC GBA EXT port hardware with a forked MiSTer-FPGA core to connect the FPGA to a real console via link cable (this work is unreleased due to incompatible licensing)
   - I've backported a number of fixes from the GBA 1P core to the GBA 2P core
+  - I added the GBA Video ("Shrek") movie mapper to a GBA core
+  - I ported the itself-ported GBATang FPGA core (a fork/port of GBA-MiSTer to Tang) back to MiSTer which greatly improved emulation accuracy in test suites
   - I have dreams of an NDS core but I think the DE-10 Nano FPGA may be at its limit for NDS
 - Generative AI development
   - I was a brief contributor to MLX-LM and work to engineer my own systems
