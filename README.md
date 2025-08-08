@@ -38,7 +38,7 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
   - I dream of supporting 256 players in a single session
   - I work on both traditional TCP/UDP netcode as well as GBA Wireless Adapters, Link Cables, NDS RFU, PS Vita Ad-Hoc, and more!
 - FPGA development
-  - I'm working to integrate GBA EXT port hardware with the MiSTer-FPGA to connect the FPGA to a real console via link cable
+  - I integrated SNAC GBA EXT port hardware with a forked MiSTer-FPGA core to connect the FPGA to a real console via link cable (this work is unreleased due to incompatible licensing)
   - I've backported a number of fixes from the GBA 1P core to the GBA 2P core
   - I have dreams of an NDS core but I think the DE-10 Nano FPGA may be at its limit for NDS
 - Generative AI development
