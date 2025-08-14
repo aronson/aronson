@@ -43,14 +43,15 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
   - I added the GBA Video ("Shrek") movie mapper to a GBA core
   - I ported the itself-ported GBATang FPGA core (a fork/port of GBA-MiSTer to Tang) back to MiSTer which greatly improved emulation accuracy in test suites
   - I have dreams of an NDS core but I think the DE-10 Nano FPGA may be at its limit for NDS
-- Generative AI development
-  - I was a brief contributor to MLX-LM and work to engineer my own systems
-  - I developed a proprietary front-end for LLM chat interaction
+- (V)LM development
+  - I was a brief contributor to MLX-LM and work to engineer my own harnesses for agents
   - I work in the scene to add safeties and bias out copyrighted content wherever I can to ensure ethical generation
+  - I support grassroots communities of independent model engineers to empower users to avoid closed-source and corporate-controlled models in favor of local models with open weights and massively reduced power utilization
+
 
 ## 🔭 What I'm Up To
 
-- I run my own sole proprietorship hosting generative model interactions
+- I run my own sole proprietorship providing social media services
 - I'm seeking formal employment so I can set my own company aside
 - I'm working to complete the Apotris multiplayer experience
 - I'm wrapping up and shipping out my Eden Toolchain as an alternative to devkitPro
@@ -58,18 +59,3 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
 ## 📫 Where To Find Me
 
 - Discord: [@vagabondtruffle](https://discord.com/)
-
-<!--
-**aronson/aronson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
