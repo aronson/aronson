@@ -55,7 +55,3 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
 - I'm seeking formal employment so I can set my own company aside
 - I'm working to complete the Apotris multiplayer experience
 - I'm wrapping up and shipping out my Eden Toolchain as an alternative to devkitPro
- 
-## 📫 Where To Find Me
-
-- Discord: [@vagabondtruffle](https://discord.com/)
