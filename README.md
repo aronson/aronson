@@ -51,7 +51,6 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
 
 ## 🔭 What I'm Up To
 
-- I run my own sole proprietorship providing social media services
-- I'm seeking formal employment so I can set my own company aside
+- I work freelance on various social media and ML projects
 - I'm working to complete the Apotris multiplayer experience
 - I'm wrapping up and shipping out my Eden Toolchain as an alternative to devkitPro
