@@ -34,7 +34,7 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
   - I ported [Wonderful Toolchain](https://wonderful.asie.pl) to macOS
   - I work with [Meson](https://mesonbuild.com) to target dozens of platforms in a single codebase
 - Multiplayer video games
-  - I volunteer on [Apotris](https://apotris.com) where it supports true multiplatform multiplayer between up to 5 players
+  - I volunteer on [Apotris](https://apotris.com) ([source code](https://gitea.com/akouzoukos/apotris)) where it supports true multiplatform multiplayer between up to 5 players
     - I engineer towards supporting 256 players in a single session
   - I work on both modern internet netcode as well as GBA Wireless Adapters, Link Cables, Nintendo DS RFU, PS Vita Ad-Hoc, and more!
 - FPGA development
