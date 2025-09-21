@@ -23,7 +23,7 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
 
 - Improving code performance in critical, hot-paths
   - I use SIMD in SSE 4.2, AVX(+2), and NEON to beat GCC and clang routinely
-- Retro and modern console video game development, I have software shipped on:
+- Retro and modern console video game development, I have apps on:
   - GameBoy Advance
   - Nintendo DS
   - Nintendo 3DS
@@ -33,24 +33,18 @@ I'm a contributor to a bunch of repos and love to share the FOSS love wherever I
 - Toolchain development
   - I ported [Wonderful Toolchain](https://wonderful.asie.pl) to macOS
   - I work with [Meson](https://mesonbuild.com) to target dozens of platforms in a single codebase
-- Multiplayer software
-  - I work on [Apotris](https://apotris.com) where we support true multiplatform multiplayer between up to 5 players
-  - I dream of supporting 256 players in a single session
-  - I work on both traditional TCP/UDP netcode as well as GBA Wireless Adapters, Link Cables, NDS RFU, PS Vita Ad-Hoc, and more!
+- Multiplayer video games
+  - I volunteer on [Apotris](https://apotris.com) where it supports true multiplatform multiplayer between up to 5 players
+    - I engineer towards supporting 256 players in a single session
+  - I work on both modern internet netcode as well as GBA Wireless Adapters, Link Cables, Nintendo DS RFU, PS Vita Ad-Hoc, and more!
 - FPGA development
-  - I integrated SNAC GBA EXT port hardware with a forked MiSTer-FPGA core to connect the FPGA to a real console via link cable (this work is unreleased due to incompatible licensing)
   - I've backported a number of fixes from the GBA 1P core to the GBA 2P core
-  - I added the GBA Video ("Shrek") movie mapper to a GBA core
-  - I ported the itself-ported GBATang FPGA core (a fork/port of GBA-MiSTer to Tang) back to MiSTer which greatly improved emulation accuracy in test suites
-  - I have dreams of an NDS core but I think the DE-10 Nano FPGA may be at its limit for NDS
-- (V)LM development
-  - I was a brief contributor to MLX-LM and work to engineer my own harnesses for agents
-  - I work in the scene to add safeties and bias out copyrighted content wherever I can to ensure ethical generation
-  - I support grassroots communities of independent model engineers to empower users to avoid closed-source and corporate-controlled models in favor of local models with open weights and massively reduced power utilization
+  - I've touched up some features and fixed a few bugs, and would love to make my own cores from scratch
 
 
 ## 🔭 What I'm Up To
 
 - I work freelance on various social media and ML projects
-- I'm working to complete the Apotris multiplayer experience
-- I'm wrapping up and shipping out my Eden Toolchain as an alternative to devkitPro
+- I work on bots and applications for internet communities used by thousands worldwide
+- I fix bugs in free video games that players report
+- I'm wrapping up and shipping out my Eden Toolchain for retro consoles
